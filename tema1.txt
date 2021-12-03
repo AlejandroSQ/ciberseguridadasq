@@ -1,4 +1,8 @@
 
 
 El tema 1 se ha obtenido de https://git-scm.com/
+#<<<<<<< HEAD
 y también de google
+#=======
+y también de wikipedia
+#>>>>>>> tema1asq
